@@ -11,4 +11,4 @@ I also discuss the use of [DeepCalib](https://github.com/alexvbogdan/DeepCalib) 
 
 A demo of reality augementation:
 
-![](./result_anaya.jpg)
+![](./ar_result_anaya.jpg)
